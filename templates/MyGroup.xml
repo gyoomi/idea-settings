@@ -1,0 +1,13 @@
+<templateSet group="MyGroup">
+  <template name="tc" value="/**&#10; * 类功能描述&#10; *&#10; * @author&#9;geyongming&#10; * @version&#9;$date$ $time$&#10; */&#10;" description="Class Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="mc" value="/**&#10; *  方法功能描述&#10; * @param: $params$&#10; * @return: $returns$&#10; */&#10;" description="Method Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

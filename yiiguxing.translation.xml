@@ -1,0 +1,64 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="nested" />
+      <item value="NESTED" />
+      <item value="specify" />
+      <item value="Begin" />
+      <item value="Clinton" />
+      <item value="backslash" />
+      <item value="Token" />
+      <item value="escaped" />
+      <item value="coalesce" />
+      <item value="Coalescing" />
+      <item value="milliseconds" />
+      <item value="Clause" />
+      <item value="Composite" />
+      <item value="Identifier" />
+      <item value="Resolver" />
+      <item value="Incomplete" />
+      <item value="column.to Upper Case(Locale.ENGLISH)" />
+      <item value="Discriminator" />
+      <item value="composites" />
+      <item value="discriminator" />
+      <item value="Registry" />
+      <item value="select" />
+      <item value="Select" />
+      <item value="specified" />
+      <item value="Tokenizer " />
+      <item value="sensitive" />
+      <item value="Pass" />
+      <item value="storage" />
+      <item value="discriminate" />
+      <item value="Discriminated" />
+      <item value="Nested" />
+      <item value="Department" />
+      <item value="Deptment" />
+      <item value="offline" />
+      <item value="Assemble" />
+      <item value="shallow" />
+      <item value="Avoid" />
+      <item value="peek" />
+      <item value="Solution" />
+      <item value="maintain" />
+      <item value="Indicates" />
+      <item value="produce" />
+      <item value="execution" />
+      <item value="consistent" />
+      <item value="comparisons" />
+      <item value="consistently" />
+      <item value="hierarchy" />
+      <item value="exposure" />
+      <item value="right" />
+      <item value="Insertion" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
+        <entry key="FRENCH" value="1" />
+        <entry key="SPANISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
