@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>49</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -95,6 +95,14 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="SQL">
+        <Item>
+          <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
+          <Description>SQL</Description>
         </Item>
       </Statistic>
     </option>
