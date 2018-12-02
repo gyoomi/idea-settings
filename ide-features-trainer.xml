@@ -55,4 +55,50 @@
       </map>
     </option>
   </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="EditorBasics.CommentLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543738434391" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543738440249" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543738443903" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543738458537" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1543738420491" />
+            </StatisticData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
