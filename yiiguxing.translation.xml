@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identifier" />
       <item value="discriminator" />
       <item value="nested" />
       <item value="NESTED" />
@@ -15,7 +16,6 @@
       <item value="milliseconds" />
       <item value="Clause" />
       <item value="Composite" />
-      <item value="Identifier" />
       <item value="Resolver" />
       <item value="Incomplete" />
       <item value="column.to Upper Case(Locale.ENGLISH)" />
@@ -54,9 +54,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
+        <entry key="CHINESE" value="79" />
         <entry key="ENGLISH" value="79" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
