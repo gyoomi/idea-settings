@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>85</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Insert link">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.InsertLink</IdeaActionID>
+          <ShortCut>'Meta+L'</ShortCut>
+          <Description>Insert link</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -86,15 +94,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Show Diff">
-        <Item>
-          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
-          <ShortCut>'Ctrl+D'</ShortCut>
-          <Description>Show Diff</Description>
-          <Count>1</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FrameworkApplication'">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
@@ -135,6 +135,14 @@
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
           <Description>SQL</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
