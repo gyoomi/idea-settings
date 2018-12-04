@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signature" />
       <item value="ordinal" />
       <item value="delimited" />
       <item value="Identifier" />
@@ -50,12 +51,11 @@
       <item value="comparisons" />
       <item value="consistently" />
       <item value="hierarchy" />
-      <item value="exposure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
