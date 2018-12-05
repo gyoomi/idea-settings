@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -126,7 +134,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -161,6 +169,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle monospaced (code span) mode">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ToggleCodeSpan</IdeaActionID>
+          <ShortCut>'Meta+O'</ShortCut>
+          <Description>Toggle monospaced (code span) mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update Project">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
@@ -191,6 +207,14 @@
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
           <Description>SQL</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle bold mode">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ToggleBold</IdeaActionID>
+          <ShortCut>'Meta+B'</ShortCut>
+          <Description>Toggle bold mode</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
