@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FrameworkApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -73,14 +81,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Project</Description>
-          <Count>11</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Project Structure...">
         <Item>
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
@@ -94,7 +94,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>22</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FrameworkApplication'">
@@ -131,6 +131,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="SQL">
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
@@ -151,6 +159,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle bold mode">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ToggleBold</IdeaActionID>
+          <ShortCut>'Meta+B'</ShortCut>
+          <Description>Toggle bold mode</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
