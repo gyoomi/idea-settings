@@ -129,6 +129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'Alt+Home'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
@@ -255,6 +263,12 @@
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
           <Description>SQL</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show editor only">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.EditorOnlyLayoutChange</IdeaActionID>
+          <Description>Show editor only</Description>
         </Item>
       </Statistic>
       <Statistic Action="Show preview only">
