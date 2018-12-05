@@ -129,14 +129,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Paste">
-        <Item>
-          <IdeaActionID>$Paste</IdeaActionID>
-          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
-          <Description>Paste</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
@@ -227,6 +219,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
