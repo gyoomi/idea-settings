@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>134</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -263,6 +263,12 @@
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
           <Description>SQL</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show editor and preview">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.EditorAndPreviewLayoutChange</IdeaActionID>
+          <Description>Show editor and preview</Description>
         </Item>
       </Statistic>
       <Statistic Action="Show editor only">
