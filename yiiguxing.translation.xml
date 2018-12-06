@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguous" />
       <item value="predictable" />
       <item value="unpredictable" />
       <item value="specification" />
       <item value="Determines" />
-      <item value="ambiguous" />
       <item value="Signature" />
       <item value="ordinal" />
       <item value="delimited" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
