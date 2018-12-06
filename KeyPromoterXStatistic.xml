@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -153,14 +153,6 @@
           <Count>56</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Settings...">
-        <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+S'</ShortCut>
-          <Description>Settings...</Description>
-          <Count>15</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Show Diff">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -263,6 +255,14 @@
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
           <Description>SQL</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show editor and preview">
