@@ -129,14 +129,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Push...">
-        <Item>
-          <IdeaActionID>Vcs.Push</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+K'</ShortCut>
-          <Description>Push...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Show Diff">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -217,6 +209,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'App'">
