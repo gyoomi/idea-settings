@@ -9,14 +9,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
-          <Description>Copy</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -38,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>151</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -192,6 +184,14 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
