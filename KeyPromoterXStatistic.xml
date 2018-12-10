@@ -219,6 +219,12 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -231,6 +237,12 @@
         <Item>
           <IdeaActionID>NewClass</IdeaActionID>
           <Description>Java Class</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Package">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <Description>Package</Description>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -353,6 +365,12 @@
         <Item>
           <IdeaActionID>MarkdownNavigator.EditorOnlyLayoutChange</IdeaActionID>
           <Description>Show editor only</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show in Explorer">
+        <Item>
+          <IdeaActionID>RevealIn</IdeaActionID>
+          <Description>Show in Explorer</Description>
         </Item>
       </Statistic>
       <Statistic Action="Show preview only">
