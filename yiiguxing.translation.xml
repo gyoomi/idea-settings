@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adaptee" />
       <item value="Alias" />
       <item value="Tokenizer" />
       <item value="Parameterized" />
@@ -50,12 +51,11 @@
       <item value="execution" />
       <item value="consistent" />
       <item value="comparisons" />
-      <item value="consistently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="INDONESIAN" value="1" />
