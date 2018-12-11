@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>210</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -219,6 +219,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FrameworkApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'FrameworkApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RunApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -393,6 +401,14 @@
         <Item>
           <IdeaActionID>MarkdownNavigator.PreviewOnlyLayoutChange</IdeaActionID>
           <Description>Show preview only</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FrameworkApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FrameworkApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RunApplication'">
