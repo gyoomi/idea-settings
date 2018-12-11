@@ -145,14 +145,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'RunApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'RunApplication'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Symbol...">
         <Item>
           <IdeaActionID>GotoSymbol</IdeaActionID>
@@ -393,6 +385,14 @@
         <Item>
           <IdeaActionID>MarkdownNavigator.PreviewOnlyLayoutChange</IdeaActionID>
           <Description>Show preview only</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RunApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RunApplication'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
