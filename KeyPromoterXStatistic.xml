@@ -169,20 +169,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Update Project">
-        <Item>
-          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'Ctrl+T'</ShortCut>
-          <Description>Update Project</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Version Control">
         <Item>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -433,6 +425,14 @@
           <ShortCut>'Meta+B'</ShortCut>
           <Description>Toggle bold mode</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
