@@ -89,14 +89,6 @@
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Hierarchy">
-        <Item>
-          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
-          <ShortCut>'Alt+8'</ShortCut>
-          <Description>Hierarchy</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Jump To Source">
         <Item>
           <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
@@ -255,6 +247,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
