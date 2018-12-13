@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>239</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -118,6 +118,14 @@
           <IdeaActionID>ShowNavBar</IdeaActionID>
           <ShortCut>'Alt+Home'</ShortCut>
           <Description>Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
