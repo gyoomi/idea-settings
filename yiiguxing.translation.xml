@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bootstrap" />
       <item value="parallel" />
       <item value="Absent" />
       <item value="exceeded" />
@@ -50,12 +51,11 @@
       <item value="offline" />
       <item value="Assemble" />
       <item value="shallow" />
-      <item value="Avoid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
