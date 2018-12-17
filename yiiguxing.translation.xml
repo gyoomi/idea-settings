@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assignable" />
+      <item value="command" />
       <item value="accumulated" />
       <item value="ccumulated" />
       <item value="idle" />
@@ -49,13 +51,11 @@
       <item value="storage" />
       <item value="discriminate" />
       <item value="Discriminated" />
-      <item value="Nested" />
-      <item value="Department" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
