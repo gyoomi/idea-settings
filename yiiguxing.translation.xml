@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calucate" />
       <item value="Ratio" />
       <item value="Hit" />
       <item value="Stale" />
@@ -50,12 +51,11 @@
       <item value="Registry" />
       <item value="select" />
       <item value="Select" />
-      <item value="specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
