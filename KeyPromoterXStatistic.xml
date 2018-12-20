@@ -161,14 +161,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'BaiduYun-acs'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'BaiduYun-acs'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Main'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -489,6 +481,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AcsApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BaiduYun-acs'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BaiduYun-acs'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FrameworkApplication'">
