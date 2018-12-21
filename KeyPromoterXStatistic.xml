@@ -275,6 +275,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Solution'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Solution'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Event Log">
         <Item>
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
@@ -378,6 +386,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'MetaClassTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Solution'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Solution'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
