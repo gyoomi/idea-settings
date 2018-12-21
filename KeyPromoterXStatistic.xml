@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>348</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -211,6 +211,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <Description>Annotate</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
