@@ -1,14 +1,6 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Add">
-        <Item>
-          <IdeaActionID>Git.Add</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+A'</ShortCut>
-          <Description>Add</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Add to VCS">
         <Item>
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
@@ -54,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>373</Count>
+          <Count>374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -227,6 +219,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Annotate">
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
