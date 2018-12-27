@@ -121,6 +121,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Insert link">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.InsertLink</IdeaActionID>
+          <ShortCut>'Meta+L'</ShortCut>
+          <Description>Insert link</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump To Source">
         <Item>
           <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
