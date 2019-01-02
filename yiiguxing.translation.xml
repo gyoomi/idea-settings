@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="case when" />
+      <item value="property" />
       <item value="comment" />
       <item value="fake" />
       <item value="position" />
@@ -49,13 +51,11 @@
       <item value="Clause" />
       <item value="Composite" />
       <item value="Resolver" />
-      <item value="Incomplete" />
-      <item value="column.to Upper Case(Locale.ENGLISH)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="FRENCH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
