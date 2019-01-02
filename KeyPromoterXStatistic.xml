@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>493</Count>
+          <Count>494</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -71,14 +71,6 @@
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
           <Count>15</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Execute">
-        <Item>
-          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
-          <ShortCut>'Ctrl+Enter'</ShortCut>
-          <Description>Execute</Description>
-          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -150,7 +142,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Navigation Bar">
@@ -357,6 +349,14 @@
         <Item>
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <Description>Event Log</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Execute</Description>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
