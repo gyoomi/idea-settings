@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compress" />
+      <item value="deflate" />
       <item value="subtype" />
       <item value="case when" />
       <item value="property" />
@@ -49,13 +51,11 @@
       <item value="coalesce" />
       <item value="Coalescing" />
       <item value="milliseconds" />
-      <item value="Clause" />
-      <item value="Composite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="FRENCH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
