@@ -297,6 +297,12 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <Description>Database</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
