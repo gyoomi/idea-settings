@@ -58,6 +58,14 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1546833280704" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
