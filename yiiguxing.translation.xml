@@ -1,64 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Expect" />
-      <item value="compress" />
-      <item value="deflate" />
-      <item value="subtype" />
-      <item value="case when" />
-      <item value="property" />
-      <item value="comment" />
-      <item value="fake" />
-      <item value="position" />
-      <item value="Normal" />
-      <item value="expert" />
-      <item value="Calucate" />
-      <item value="Ratio" />
-      <item value="Hit" />
-      <item value="Stale" />
-      <item value="cycle" />
-      <item value="multiple" />
-      <item value="Cursor" />
-      <item value="Assignable" />
-      <item value="command" />
-      <item value="accumulated" />
-      <item value="ccumulated" />
-      <item value="idle" />
-      <item value="Catalina" />
-      <item value="Bootstrap" />
-      <item value="parallel" />
-      <item value="Absent" />
-      <item value="exceeded" />
-      <item value="instantiate" />
-      <item value="slot" />
-      <item value="ambiguous" />
-      <item value="predictable" />
-      <item value="unpredictable" />
-      <item value="specification" />
-      <item value="Determines" />
-      <item value="Signature" />
-      <item value="ordinal" />
-      <item value="delimited" />
-      <item value="Identifier" />
-      <item value="discriminator" />
-      <item value="nested" />
-      <item value="NESTED" />
-      <item value="specify" />
-      <item value="Begin" />
-      <item value="Clinton" />
-      <item value="backslash" />
-      <item value="Token" />
-      <item value="escaped" />
-      <item value="coalesce" />
-      <item value="Coalescing" />
+      <item value="nail" />
+      <item value="thumb" />
+      <item value="thumbnail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
-        <entry key="FRENCH" value="2" />
-        <entry key="SLOVAK" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
