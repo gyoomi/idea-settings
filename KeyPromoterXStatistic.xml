@@ -1,14 +1,6 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Add New Row">
-        <Item>
-          <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
-          <ShortCut>'Alt+Insert'</ShortCut>
-          <Description>Add New Row</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Add to VCS">
         <Item>
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
@@ -41,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Home'</ShortCut>
+          <Description>DDL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'AVLTree (2)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>557</Count>
+          <Count>559</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -272,6 +272,14 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add New Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Add New Row</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
