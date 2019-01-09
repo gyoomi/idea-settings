@@ -9,6 +9,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Columns List">
+        <Item>
+          <IdeaActionID>Console.TableResult.ColumnsList</IdeaActionID>
+          <ShortCut>'Ctrl+F12'</ShortCut>
+          <Description>Columns List</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
