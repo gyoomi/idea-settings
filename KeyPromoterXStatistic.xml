@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>578</Count>
+          <Count>582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -641,6 +641,14 @@
         <Item>
           <IdeaActionID>ActivateSQLToolWindow</IdeaActionID>
           <Description>SQL</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set NULL">
+        <Item>
+          <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+N'</ShortCut>
+          <Description>Set NULL</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
