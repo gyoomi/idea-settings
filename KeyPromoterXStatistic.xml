@@ -249,14 +249,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Toggle monospaced (code span) mode">
         <Item>
           <IdeaActionID>MarkdownNavigator.ToggleCodeSpan</IdeaActionID>
@@ -451,6 +443,12 @@
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="JRebel Console">
+        <Item>
+          <IdeaActionID>ActivateJRebelConsoleToolWindow</IdeaActionID>
+          <Description>JRebel Console</Description>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -759,6 +757,14 @@
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Editor Split Orientation">
