@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>593</Count>
+          <Count>596</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -403,6 +403,12 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Solution'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'RunApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <Description>Debug with JRebel 'RunApplication'</Description>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
