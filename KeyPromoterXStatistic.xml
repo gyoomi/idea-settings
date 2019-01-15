@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>591</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '114.116.114.60'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '114.116.114.60'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'AVLTree (2)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -281,6 +289,12 @@
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Alibaba Cloud View">
+        <Item>
+          <IdeaActionID>ActivateAlibabaCloudViewToolWindow</IdeaActionID>
+          <Description>Alibaba Cloud View</Description>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
