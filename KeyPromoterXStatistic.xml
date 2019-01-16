@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>614</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -589,6 +589,12 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Solution'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="RestServices">
+        <Item>
+          <IdeaActionID>ActivateRestServicesToolWindow</IdeaActionID>
+          <Description>RestServices</Description>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
