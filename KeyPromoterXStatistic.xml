@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>749</Count>
+          <Count>750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -198,6 +198,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RunApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Image Thumbnails">
+        <Item>
+          <IdeaActionID>Images.ShowThumbnails</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Show Image Thumbnails</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
