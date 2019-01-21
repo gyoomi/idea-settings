@@ -615,6 +615,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TestNode'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TestNode'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="RestServices">
         <Item>
           <IdeaActionID>ActivateRestServicesToolWindow</IdeaActionID>
