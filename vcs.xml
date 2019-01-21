@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.iihoo.com:888/wuwentan/count.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="gyoomi" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\gyoomi\idea-workspace" />
