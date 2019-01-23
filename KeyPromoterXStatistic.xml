@@ -389,6 +389,12 @@
           <Description>Database</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Database Changes">
+        <Item>
+          <IdeaActionID>ActivateDatabaseChangesToolWindow</IdeaActionID>
+          <Description>Database Changes</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
