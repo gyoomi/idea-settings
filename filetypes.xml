@@ -5,8 +5,6 @@
       <mapping pattern="reentrantlock与synchronized区别" type="PLAIN_TEXT" />
       <mapping pattern="readme,md" type="PLAIN_TEXT" />
       <mapping ext="pdm" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <removed_mapping ext="properties" type="Properties" />
     </extensionMap>
   </component>
 </application>
