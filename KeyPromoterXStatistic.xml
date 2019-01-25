@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>823</Count>
+          <Count>824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -561,12 +561,24 @@
           <Description>Java Class</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Java Enterprise">
+        <Item>
+          <IdeaActionID>ActivateJavaEnterpriseToolWindow</IdeaActionID>
+          <Description>Java Enterprise</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Key Promoter X">
+        <Item>
+          <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
+          <Description>Key Promoter X</Description>
         </Item>
       </Statistic>
       <Statistic Action="Maven">
@@ -936,6 +948,14 @@
           <IdeaActionID>MarkdownNavigator.ToggleBold</IdeaActionID>
           <ShortCut>'Meta+B'</ShortCut>
           <Description>Toggle bold mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Y'</ShortCut>
+          <Description>Translate</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
