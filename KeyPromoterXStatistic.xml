@@ -719,6 +719,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ThreadSyncMethod02'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ThreadSyncMethod02'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="RestServices">
         <Item>
           <IdeaActionID>ActivateRestServicesToolWindow</IdeaActionID>
