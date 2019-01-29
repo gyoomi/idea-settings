@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Threshold" />
       <item value="allocation" />
+      <item value="Threshold" />
       <item value="Policy" />
       <item value="delta" />
       <item value="Period" />
@@ -22,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
